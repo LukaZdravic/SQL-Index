@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(131,7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(146,7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(167,86): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(184,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(191,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(246,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(251,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(291,87): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(297,86): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(303,99): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(309,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(89,7): warning C4101: 'prethodni': unreferenced local variable
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(585,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(586,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(743,7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(826,7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(828,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(359): warning C4715: 'vrati_treci': not all control paths return a value
+C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\ASP_DOMACI\main.cpp(997): warning C4715: 'nadji_cvor': not all control paths return a value
+  ASP_DOMACI.vcxproj -> C:\Users\lukaz\Desktop\ASP2DOMACI2\ASP_DOMACI\x64\Debug\ASP_DOMACI.exe
